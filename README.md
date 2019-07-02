@@ -18,6 +18,6 @@ LED
 ## circuit
 ![circuit](https://github.com/amirphl/Temperautre-Threshold-Controller/new/master/circuit.png)
 ## schematic
-![schematic](https://github.com/amirphl/Temperautre-Threshold-Controller/new/master/schematic.PNG)
+![schematic](https://github.com/amirphl/Temperautre-Threshold-Controller/blob/master/schematic.PNG)
 ## pcb
-![pcb](https://github.com/amirphl/Temperautre-Threshold-Controller/new/master/pcb.PNG)
+![pcb](https://github.com/amirphl/Temperautre-Threshold-Controller/blob/master/pcb.PNG)
